@@ -1,5 +1,5 @@
 # Analyzing Marketing Campaigns with Pandas
- The analysis of fake marketing dataset based on the data of an online subscription business is documented in [Analyzing_Marketing_Campaigns_with_pandas.ipynb] (https://github.com/shubhi-agarwal/Analyzing-Marketing-Campaigns/blob/master/Analyzing_Marketing_Campaigns_with_pandas.ipynb) 
+ The analysis of fake marketing dataset based on the data of an online subscription business is documented in [Analyzing_Marketing_Campaigns_with_pandas.ipynb](https://github.com/shubhi-agarwal/Analyzing-Marketing-Campaigns/blob/master/Analyzing_Marketing_Campaigns_with_pandas.ipynb) 
  
  Business questions like **"How did this campaign perform?", "Which channel is referring the most subscribers?", "Why is a particular channel underperforming?"** are answered using data from the analysis. This project is build on Python and pandas fundamentals, such as merging/slicing datasets, groupby(), correcting data types and visualizing results using matplotlib.
 
